@@ -42,4 +42,3 @@ Created by vikas8852
 
 ---
 
-If you want different content (project description, screenshots, badges, or a different license), tell me and I will update the README.
